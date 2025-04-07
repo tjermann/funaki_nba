@@ -25,15 +25,15 @@ The interpretation of these ratings is the added efficiency from that players pr
 Only allowing individual players to show up once 
 ![image](https://github.com/user-attachments/assets/2a506b28-2bbf-4d1f-b1f2-03afff36b24a)
 
-# Results Archive (Updated 02/26/2025)
+# Results Archive (Updated 04/07/2025)
 
 ## NBA
 
 ### 2024-2025
 
-Totals: 29.4 (240/429) (55.9%)  
-Spread: -7.37 (125/246) (50.8%)  
-Moneyline: 31.89 (115/338)  
+Totals: 38.75 (325/582) (55.8%)
+Spread: -14.65 (161/322) (50.0%)  
+Moneyline: 2.0 (187/580)
 
 ### 2023-2024
   
@@ -45,7 +45,7 @@ Moneyline: 30.76 (143/423)
 
 ### 2024-2025
   
-Totals: 9.66 (408/777) (52.5%)
+Totals: 16.59 (531/1005) (52.8%)
 
 ### 2023-2024
   
@@ -55,8 +55,8 @@ Totals: 44.57 (663/1235) (53.7%)
 
 ### 2024-2025
 
-Totals: 26.27 (221/387) (57.1%)  
-Spread: 4.8 (240/444) (54.1%) 
+Totals: 36.99 (277/481) (57.6%)
+Spread: 19.38 (274/493) (55.6%)
 
 ### 2023-2024
   
@@ -79,17 +79,17 @@ Rebounds Props: -9.6 (47.8% accuracy on 67 bets)
 
 ### 2024-2025 
 
-Totals: 32.99 (113/199) (56.8%)  
+Totals: Totals: 27.09 (120/216) (55.6%) 
 Spread: 5.18 (9/12) (75%)   
-Moneyline: 8.51 (11/27)
+Moneyline: 6.81 (12/31)
 
 ## EuroCup
 
 ### 2024-2025 
 
-Totals: -1.96 (32/63) (50.8%)   
+Totals: -1.32 (36/70) (51.4%)
 Spread: 0.36 (7/13) (53.8%)    
-Moneyline: -5.9 (5/23)
+Moneyline: -6.9 (5/24)
 
 ## NBL
 
