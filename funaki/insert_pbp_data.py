@@ -9,7 +9,6 @@ current_dir = os.path.dirname(os.path.abspath(__file__))
 parent_dir = os.path.dirname(current_dir)
 sys.path.append(parent_dir)
 
-# Now try importing
 from config import MONGODB_CONFIG, NBA_SEASON
 
 if __name__ == "__main__":
