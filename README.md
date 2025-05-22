@@ -14,7 +14,7 @@ Funaki is built with the first principles of basketball gameplay in mind, and th
 
 To follow live predictions visit the following X feeds
 
-https://x.com/CLVMachine
+https://x.com/CLVMachine  
 https://x.com/Sea_King_Alpha
 
 ## Current Player Ratings
