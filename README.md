@@ -2,7 +2,7 @@
 
 # Overview
 
-**This repo features NBA only and is the public sample of the full private funaki system, which includes NBA/NCAAMB/NCAAWB/WNBA/NBL/Euroleague/Eurocup**
+**This repo features NBA only and is the public sample of the full private funaki system, which includes NBA/NCAAMB/NCAAWB/WNBA/NBL/Euroleague/Eurocup.  Here you can expect to find code for population of play by play historical data as well as creation of the Funaki player rating system.  What is not included is the translation of those player ratings to game level predictions for applications to betting markets.**
 
 Funaki is a basketball methodology based on analysis of play by play data to create Bayesian player offensive/defensive ratings and team pace tendencies based on analysis of shot clock usage.  
 
