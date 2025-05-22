@@ -32,6 +32,8 @@ Only allowing individual players to show up once
 
 # Results Archive (Updated 5/21/2025)
 
+**Scoring below in terms of "units returned" for relative bet sizing**
+
 ## NBA
 
 ### 2024-2025
