@@ -96,9 +96,9 @@ Rebounds Props: -9.6 (47.8% accuracy on 67 bets)
 
 ### 2024-2025 
 
-Totals: Totals: 33.2 (133/238) (55.9%)   
+Totals: Totals: 34.84 (135/241) (56.0%)   
 Spread: 5.18 (9/12) (75%)   
-Moneyline: 4.96 (13/36)
+Moneyline: 6.16 (14/37)
 
 ## EuroCup
 
