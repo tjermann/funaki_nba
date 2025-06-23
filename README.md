@@ -38,9 +38,9 @@ Only allowing individual players to show up once
 
 ### 2024-2025
 
-Totals: 41.96 (356/638) (55.8%)  
-Spread: -9.65 (172/338) (50.9%)  
-Moneyline: -6.9 (213/674)
+Totals: 41.69 (359/644) (55.7%)  
+Spread: -9.83 (174/342) (50.9%)  
+Moneyline: -3.34 (217/682)
 
 ### 2023-2024
   
@@ -74,13 +74,13 @@ Spread: 6.14 (54/97) (55.7%)
 
 ### 2025
 
-Totals: -0.09 (1/2) (50.0%) (50.0%)  
-Moneyline: 2.5 (1/2)  
-Spread: 0.0 (0/0) (100.0%)  
+Totals: 2.38 (18/32) (56.2%)  
+Moneyline: 20.72 (16/36)  
+Spread: 1.45 (6/10) (60.0%)  
 
-Points Props: -2.18 (47.1% accuracy on 17 bets)  
-Assists Props: -2.0 (0.0% accuracy on 2 bets)  
-Rebounds Props: 3.75 (77.8% accuracy on 9 bets) 
+Points Props: 15.26 (56.6% accuracy on 316 bets)  
+Assists Props: 4.61 (57.1% accuracy on 77 bets)  
+Rebounds Props: 13.07 (60.4% accuracy on 101 bets) 
 
 ### 2024
 
