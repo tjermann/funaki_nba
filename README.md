@@ -30,7 +30,7 @@ The interpretation of these ratings is the added efficiency from that players pr
 Only allowing individual players to show up once 
 ![image](https://github.com/user-attachments/assets/2a506b28-2bbf-4d1f-b1f2-03afff36b24a)
 
-# Results Archive (Updated 5/21/2025)
+# Results Archive (Updated 10/14/2025)
 
 **Scoring below in terms of "units returned" for relative bet sizing**
 
@@ -73,14 +73,9 @@ Spread: 6.14 (54/97) (55.7%)
 ## WNBA
 
 ### 2025
-
-Totals: 2.38 (18/32) (56.2%)  
-Moneyline: 20.72 (16/36)  
-Spread: 1.45 (6/10) (60.0%)  
-
-Points Props: 15.26 (56.6% accuracy on 316 bets)  
-Assists Props: 4.61 (57.1% accuracy on 77 bets)  
-Rebounds Props: 13.07 (60.4% accuracy on 101 bets) 
+- Totals: 6.87 (57/102) (55.9%)
+- Moneyline: 28.94 (43/107)
+- Spread: 7.18 (20/31) (64.5%)
 
 ### 2024
 
